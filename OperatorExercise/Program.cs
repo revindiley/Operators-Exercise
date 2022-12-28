@@ -7,6 +7,8 @@ namespace OperatorExercise
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Press any key to start");
+            Console.ReadLine();
             var a = 17;
             var b = 4;
             var quotient = a / b;
